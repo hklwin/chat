@@ -1,2 +1,3 @@
-# chat
-Sample chat for beginner. Simple front-end code to make correct way of making chat application.
+# Chat
+
+Simple HTML, CSS and Javascript code to show how to correctly make front-end side of chat application.
